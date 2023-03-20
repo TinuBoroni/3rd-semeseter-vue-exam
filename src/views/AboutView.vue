@@ -37,7 +37,7 @@
         >
           <img
             class="w-full h-full max-w-md"
-            :src="require('public/Shopping bag-cuate.svg')"
+            :src="require('../../public/bagcuate.svg')"
             alt="email illustration vector art"
           />
         </div>

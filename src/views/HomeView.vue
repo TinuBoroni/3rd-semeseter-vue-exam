@@ -7,16 +7,13 @@
         >
           Building Your Confidence and Trust with our Awesome Products
         </h1>
-        <p class="mt-6 text-gray-500 dark:text-gray-300">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero
-          similique obcaecati illum mollitia.
-        </p>
+        <p class="mt-6 text-gray-500 dark:text-gray-300"></p>
       </div>
 
       <div class="flex justify-center mt-10">
         <img
           class="object-cover w-full h-96 rounded-xl lg:w-4/5"
-          :src="requiure('public/Bicycle workshop-cuate.svg')"
+          :src="require('../../public/workshopcuate.svg')"
         />
       </div>
     </div>

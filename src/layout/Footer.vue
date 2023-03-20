@@ -74,7 +74,7 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "FooterView",
+  name: "FooTer",
   setup() {
     const year = new Date().getFullYear();
     return { year };

@@ -3,17 +3,17 @@
   <main class="container-root">
     <router-view />
   </main>
-  <FooterView />
+  <FooTer />
 </template>
 
 <script>
 import NavBar from "@/layout/Navbar.vue";
-import FooterView from "@/layout/Footer.vue";
+import FooTer from "@/layout/Footer.vue";
 import { defineComponent } from "vue";
 export default defineComponent({
   components: {
     NavBar,
-    FooterView,
+    FooTer,
   },
 });
 </script>
@@ -32,7 +32,7 @@ export default defineComponent({
   min-height: 100vh;
 }
 nav a.router-link-exact-active {
-  background: #3b82f6;
+  background: #a06f05;
   color: white;
 }
 </style>
