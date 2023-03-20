@@ -1,5 +1,6 @@
 # vue-project
-
+# live preview
+[website deploy link](https://3rd-semeseter-vue-exam-3kha-28l3xzb0l-tinuboroni.vercel.app/)
 ## Project setup
 ```
 pnpm install
